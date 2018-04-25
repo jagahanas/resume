@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  24 APR 2018 21:26
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  25 APR 2018 19:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**resume21NOV2017.tex
-(./resume21NOV2017.tex
+**"resume24APR2018-USAFRICOM C4 Systems Engineer.tex"
+(./resume24APR2018-USAFRICOM C4 Systems Engineer.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (./deedy-resume.cls
@@ -640,8 +640,8 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthlast=\dimen160
 \titlewidthfirst=\dimen161
 ))
-(./resume21NOV2017.aux)
-\openout1 = `resume21NOV2017.aux'.
+(./resume24APR2018-USAFRICOM C4 Systems Engineer.aux)
+\openout1 = `"resume24APR2018-USAFRICOM C4 Systems Engineer.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -710,9 +710,10 @@ LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
 
-(./resume21NOV2017.out) (./resume21NOV2017.out)
+(./resume24APR2018-USAFRICOM C4 Systems Engineer.out)
+(./resume24APR2018-USAFRICOM C4 Systems Engineer.out)
 \@outlinefile=\write3
-\openout3 = `resume21NOV2017.out'.
+\openout3 = `"resume24APR2018-USAFRICOM C4 Systems Engineer.out"'.
 
 .................................................
 . fontspec info: "setup-math"
@@ -866,27 +867,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 88.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 88.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 286.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 300.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 286.
- (./resume21NOV2017.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 286.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 286.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 300.
+ (./resume24APR2018-USAFRICOM C4 Systems Engineer.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 300.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 300.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 286.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 300.
  ) 
 Here is how much of TeX's memory you used:
- 18380 strings out of 493005
- 345850 string characters out of 6134596
- 432549 words of memory out of 5000000
- 22233 multiletter control sequences out of 15000+600000
- 4296 words of font info for 52 fonts, out of 8000000 for 9000
+ 18377 strings out of 493005
+ 346124 string characters out of 6134596
+ 434581 words of memory out of 5000000
+ 22231 multiletter control sequences out of 15000+600000
+ 4288 words of font info for 51 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 52i,5n,119p,10356b,524s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 52i,5n,119p,10388b,524s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume21NOV2017.pdf (1 page).
+Output written on resume24APR2018-USAFRICOM C4 Systems Engineer.pdf (1 page).
